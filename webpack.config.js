@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/operators/skipuntil.ts',
+  entry: './src/operators/groupBy.ts',
   devtool: 'inline-source-map',
   module: {
     rules: [
